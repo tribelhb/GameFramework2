@@ -4,7 +4,7 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "edu.up.tribelhb.gameframework2"
-        minSdkVersion 27
+        minSdkVersion 25
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
